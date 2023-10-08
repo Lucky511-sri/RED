@@ -1,6 +1,6 @@
 # RED
 It's a Real Estate sales Dashboard creating with the help of power bi.
-Firstly collect the data from kaggle in file format.in this dataset there 21 columns with different parameters.column no 20 is not defined in dataset so we remove this column for better results.
+Firstly collect the data from kaggle in xlsx file format.in this dataset there 21 columns with different parameters.column no 20 is not defined in dataset so we remove this column for better results.
 After that checked all columns data types,null values, duplicate values in the excel and as well as on power bi for double check.
 open power bi and click on get data tab after that click on the text\csv tab and import dataset in the power bi and transform the data as per requirement with the help of power bi query editor.
 the project requirements is:- a) top 5 kpis for revenue, sales, target,total property, property types.
